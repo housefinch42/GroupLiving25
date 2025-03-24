@@ -1,9 +1,6 @@
 # GroupLiving25
 Title of Dataset: Data from: In sickness and in health: Group-living augments behavioural responses to food and predation risk for sick house finches (Haemorhous mexicanus)
 
-Author(s): Marissa M. Langager, Alicia G. Arneson, Dana M. Hawley
-
-Corresponding Author Email Address: mlangager42@vt.edu
 
 Item Type: Dataset
 
